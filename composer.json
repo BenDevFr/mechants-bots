@@ -1,0 +1,13 @@
+{
+    "name": "mechant/bots",
+    "authors": [
+        {
+            "name": "BenDev",
+            "email": "kannasylum@gmail.com"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.14",
+        "symfony/var-dumper": "^5.4"
+    }
+}
